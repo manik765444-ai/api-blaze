@@ -1,0 +1,10 @@
+Here are the common Python dependency packages needed for a FastAPI service:
+
+```
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+alembic
+psycopg2-binary
+python-dotenv
